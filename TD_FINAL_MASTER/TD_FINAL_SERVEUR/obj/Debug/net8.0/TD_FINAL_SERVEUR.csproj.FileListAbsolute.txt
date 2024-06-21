@@ -1,0 +1,14 @@
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\bin\Debug\net8.0\TD_FINAL_SERVEUR.exe
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\bin\Debug\net8.0\TD_FINAL_SERVEUR.deps.json
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\bin\Debug\net8.0\TD_FINAL_SERVEUR.runtimeconfig.json
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\bin\Debug\net8.0\TD_FINAL_SERVEUR.dll
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\bin\Debug\net8.0\TD_FINAL_SERVEUR.pdb
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\obj\Debug\net8.0\TD_FINAL_SERVEUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\obj\Debug\net8.0\TD_FINAL_SERVEUR.AssemblyInfoInputs.cache
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\obj\Debug\net8.0\TD_FINAL_SERVEUR.AssemblyInfo.cs
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\obj\Debug\net8.0\TD_FINAL_SERVEUR.csproj.CoreCompileInputs.cache
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\obj\Debug\net8.0\TD_FINAL_SERVEUR.dll
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\obj\Debug\net8.0\refint\TD_FINAL_SERVEUR.dll
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\obj\Debug\net8.0\TD_FINAL_SERVEUR.pdb
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\obj\Debug\net8.0\TD_FINAL_SERVEUR.genruntimeconfig.cache
+C:\Users\decuyr\Desktop\Cour\WPF\TD_FINAL_MASTER\TD_FINAL_SERVEUR\obj\Debug\net8.0\ref\TD_FINAL_SERVEUR.dll
